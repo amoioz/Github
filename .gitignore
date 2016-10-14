@@ -1,0 +1,18 @@
+Run The Following Command 
+yum update && yum install epel-release
+
+yum install openvpn
+openvpn –version
+cd /etc/openvpn
+Exact the following link 
+Wget   https://www.onevpn.com/openvpn/openvpn.zip
+unzip openvpn.zip
+rm -rf openvpn.zip
+
+# openvpn  --config  /etc/openvpn/Australia.TCP.ovpn
+
+Connection complete now open new session and type links (command line web browser) if links not installed  links by using command
+#  yum install links
+# links 
+A blank screen will open and then press g
+Enjoy Surfing 
